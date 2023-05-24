@@ -51,30 +51,30 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 /*============== SOCIAL ==============*/
 
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
-global.sig = 'https://instagram.com/l4c1f2r' //Link Instagrammu
-global.sgh = 'https://github.com/Lucife-Putra' //Link Githubmu
-global.sgc = 'https://chat.whatsapp.com/FR1KfE3OTcQCayiabos8Ff'
+global.sig = 'https://chat.whatsapp.com/Ln2vHjRrRayAbzalRMB56r' //Link Instagrammu
+global.sgh = 'https://chat.whatsapp.com/Ln2vHjRrRayAbzalRMB56r' //Link Githubmu
+global.sgc = 'https://chat.whatsapp.com/Ln2vHjRrRayAbzalRMB56r'
 global.sdc = '-' //Isi Pake Link Discordmu Kalo Gada Biarin aja
-global.syt = 'https://youtube.com/@Putra_Modz_'
+global.syt = 'ɢᴀᴋ ᴀᴅᴀ'
 global.snh = 'https://nhentai.net/g/HaramTod🗿' //Hmmm, Ini boleh kalian isi terserah :v
 
 /*============== PAYMENT ==============*/
-global.pdana = '083863727401' //Nomor Danamu
-global.ppulsa = '083863728401' //Nomor SimCard Yang Kamu Pake
+global.pdana = '082229217681' //Nomor Danamu
+global.ppulsa = '082229217681' //Nomor SimCard Yang Kamu Pake
 global.psaweria = '-' //Link Saweriamu Kalo Nggada Ketik - aja
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6283863727376' //Nomor Bot
-global.nomorown = '6283863727401' //Nomor Owner
-global.namebot = 'ᚯӃᶱᶮᶽᶲメ฿Ø₮™' //Nama Bot
-global.nameown = '༄ᶜputra☆࿐' // Nama Owner
-global.wame = 'https://api.whatsapp.com/send?phone=+6283863727401'
-global.tautanwa = 'https://api.whatsapp.com/send?phone=+6283863727401' //kalau bisa link wa bisnis kalian
+global.nomorbot = '6285341725791' //Nomor Bot
+global.nomorown = '6282229217681' //Nomor Owner
+global.namebot = 'ᴇʟᴀɪɴᴀ ʀᴏʙᴏᴛ' //Nama Bot
+global.nameown = 'ɪɴᴏʀʏ ᴀɴᴅ ᴡᴀʜᴀʙ' // Nama Owner
+global.wame = 'https://api.whatsapp.com/send?phone=+6282229217681'
+global.tautanwa = 'https://api.whatsapp.com/send?phone=+6282229217681' //kalau bisa link wa bisnis kalian
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6283863727401', '❦ ༄ᶜᴋputra☆࿐ 🎐', true] //Ganti jd nomormu sama Namamu
+  ['6282229217681', 'ɪɴᴏʀʏ ᴀɴᴅ ᴡᴀʜᴀʙ 🎐', true] //Ganti jd nomormu sama Namamu
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -142,12 +142,12 @@ global.APIKeys = { // APIKey Here
 
 /*============== WATERMARK ==============*/
 global.wm = '                「 ᚯӃᶱᶮᶽᶲメ汉  」' //Main Watermark
-global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘ᚯӃᶱᶮᶽᶲメ฿Ø₮™˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = '⫹⫺ ᚯӃᶱᶮᶽᶲメ฿Ø₮™'
-global.namedoc = 'ᚯӃᶱᶮᶽᶲメ' //Main Name Menu Document
+global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘ᴇʟᴀɪɴᴀ ʀᴏʙᴏᴛ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
+global.wm3 = '⫹⫺ ᴇʟᴀɪɴᴀ ʀᴏʙᴏᴛ'
+global.namedoc = 'ᴇʟᴀɪɴᴀ ʀᴏʙᴏᴛ' //Main Name Menu Document
 global.botdate = `⫹⫺ Day's: ${week} ${date}`
 global.bottime = `ᴛɪᴍᴇ: ${wktuwib}`
-global.titlebot = '🎋 ┊ ᚯӃᶱᶮᶽᶲ ʙᴏᴛ ᴡʜᴀᴛsᴀᴘᴘ'
+global.titlebot = '🎋 ┊ ᴇʟᴀɪɴᴀ ʀᴏʙᴏᴛ ᴡʜᴀᴛsᴀᴘᴘ'
 global.author = global.wm
 global.emojis = pickRandom(["👑", "🎗", "️🗿", "🕹", "️💡", "🪄", "🎈", "🎊", "🔖", "📍", "❤", "‍🔥", "💤", "💭", "🕚", "💬", "🚩", "🎐", "🍃", "🌿", "🥀", "✨", "⚡", "☂️"])
 
@@ -401,7 +401,7 @@ global.md = pickRandom(["_In progress, please wait..._", "Proses", "Tunggu Seben
 global.eror = '```404 error```'
 global.dtu = 'ɪɴꜱᴛᴀɢʀᴀᴍ'
 global.dtc = 'ᴄᴀʟʟ ᴏᴡɴᴇʀ'
-global.phn = '+62 838 6372 7401'
+global.phn = '+62 222 9217 681'
 
 //Danied\\
 
@@ -453,7 +453,7 @@ global.hsquere = ['⛶','❏','⫹⫺']
 global.stickpack = '.'
 global.stickauth = `☂︎\nK\nE\nN\nZ\nO\n-\nB\nO\nT\n✦\n\n⫹⫺ Whatsapp BOT\nwa.me/${global.nomorbot}`
 global.packname = 'Sticker Request By '
-global.packname2 = 'ᴄʀᴇᴀᴛᴇᴅ ʙʏ ᚯӃᶱᶮᶽᶲ ʙᴏᴛᴢ'
+global.packname2 = 'ᴄʀᴇᴀᴛᴇᴅ ʙʏ ᴇʟᴀɪɴᴀ ʀᴏʙᴏᴛ'
 
 global.multiplier = 38 // The higher, The harder levelup
 
